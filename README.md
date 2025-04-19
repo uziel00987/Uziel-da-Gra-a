@@ -1,2 +1,2 @@
-# Uziel-da-Gra-a
+# Uziel-da-Graça
 Aqui mostrarei meus projectos pessoais durante meu aprendizado nesse mundo gigante que é a programação.
